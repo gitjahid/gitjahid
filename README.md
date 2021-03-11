@@ -28,6 +28,6 @@ I'm a web developer from the Bangladesh, who loves to code. I mainly code in Jav
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
 ![TailwindCss](https://img.shields.io/badge/-TailwindCss-%231a202c?style=flat-square&logo=tailwind-css)
 
-![jahid-dev/github-readme-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jahid-dev&langs_count=8)
+![jahid-dev/github-readme-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hello-jahid&langs_count=8)
 
-![Jahid's Github stats](https://github-readme-stats.vercel.app/api?username=jahid-dev&show_icons=true)
+![Jahid's Github stats](https://github-readme-stats.vercel.app/api?username=hello-jahid&show_icons=true)
