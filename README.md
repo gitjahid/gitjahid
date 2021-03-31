@@ -1,6 +1,6 @@
 # 🧐 About Me
 
-![status](https://img.shields.io/badge/status-up-brightgreen) ![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey) ![](https://img.shields.io/badge/Relationship-Single-red) [![GitHub followers](https://img.shields.io/github/followers/jahid-dev?label=Follow&style=social)](https://github.com/jahid-dev/?tab=follow) ![](https://visitor-badge.glitch.me/badge?page_id=jahid-dev.jahid-dev)
+![status](https://img.shields.io/badge/status-up-brightgreen) ![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey) ![](https://img.shields.io/badge/Relationship-Single-red) [![GitHub followers](https://img.shields.io/github/followers/hello-jahid?label=Follow&style=social)](https://github.com/hello-jahid/?tab=follow) ![](https://visitor-badge.glitch.me/badge?page_id=hello-jahid.hello-jahid)
 
 I'm a web developer from the Bangladesh, who loves to code. I mainly code in JavaScript & PHP, but I'm always learning new things. I also just started contributing to Open Source projects. Feel free to reach out at [email](mailto:jahid80820@gmail.com) to contact with me.
 
@@ -10,7 +10,7 @@ I'm a web developer from the Bangladesh, who loves to code. I mainly code in Jav
 
 ## Social Links
 
-[![](https://img.shields.io/badge/-@jahid--dev-%23181717?style=flat-square&logo=github)](https://github.com/jahid-dev) [![](https://img.shields.io/website?color=dc3545&style=flat-square&up_message=jahidx0068.xyz&url=https://jahidx0068.xyz/)](https://jahidx0068.xyz/) ![status](https://img.shields.io/badge/-@ProgrammerJahid-%231DA1F2?style=flat-square&url=https://twitter.com/ProgrammerJahid&logo=twitter&logoColor=ffffff) [![Linkedin Badge](https://img.shields.io/badge/-jahid80820-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jahid80820/)](https://www.linkedin.com/in/jahid80820/) [![Gmail Badge](https://img.shields.io/badge/-jahid80820@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jahid80820@gmail.com)](mailto:jahid80820@gmail.com)
+[![](https://img.shields.io/badge/-@hello-jahid-%23181717?style=flat-square&logo=github)](https://github.com/hello-jahid) [![](https://img.shields.io/website?color=dc3545&style=flat-square&up_message=codewithjahid.com/&url=http://codewithjahid.com/)](http://codewithjahid.com/) ![status](https://img.shields.io/badge/-@Jahid80820-%231DA1F2?style=flat-square&url=https://twitter.com/Jahid80820&logo=twitter&logoColor=ffffff) [![Linkedin Badge](https://img.shields.io/badge/-jahid80820-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jahid80820/)](https://www.linkedin.com/in/jahid80820/) [![Gmail Badge](https://img.shields.io/badge/-jahid80820@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jahid80820@gmail.com)](mailto:jahid80820@gmail.com)
 
 ## My Tech Stack
 
