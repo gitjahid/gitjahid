@@ -20,14 +20,14 @@ I'm a web developer from the Bangladesh, who loves to code. I mainly code in Jav
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
 ![PHP](https://img.shields.io/badge/-php-%23282C34?style=flat-square&logo=php)
 
+![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
 ![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=webpack)
 ![ESlint](https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
-![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
 
-![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-%231a202c?style=flat-square&logo=bootstrap)
 ![TailwindCss](https://img.shields.io/badge/-TailwindCss-%231a202c?style=flat-square&logo=tailwind-css)
+![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
 
 ![jahid-dev/github-readme-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hello-jahid&langs_count=8)
 
