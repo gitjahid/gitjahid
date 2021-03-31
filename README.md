@@ -26,6 +26,7 @@ I'm a web developer from the Bangladesh, who loves to code. I mainly code in Jav
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
 
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-%231a202c?style=flat-square&logo=bootstrap)
 ![TailwindCss](https://img.shields.io/badge/-TailwindCss-%231a202c?style=flat-square&logo=tailwind-css)
 
 ![jahid-dev/github-readme-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hello-jahid&langs_count=8)
