@@ -2,7 +2,7 @@
 
 ![status](https://img.shields.io/badge/status-up-brightgreen) ![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey) ![](https://img.shields.io/badge/Relationship-Single-red) [![GitHub followers](https://img.shields.io/github/followers/hello-jahid?label=Follow&style=social)](https://github.com/hello-jahid/?tab=follow) [![Visitors](https://visitor-badge.glitch.me/badge?page_id=hello-jahid.hello-jahid)](https://github.com/hello-jahid/)
 
-I'm a web developer from the Bangladesh, who loves to code. I mainly code in JavaScript & PHP, but I'm always learning new things. I also just started contributing to Open Source projects. Feel free to reach out at [email](mailto:jahid80820@gmail.com) to contact with me.
+I'm a web developer from Bangladesh, who loves to code. I mainly code in JavaScript & PHP, but I'm always learning new things. I also just started contributing to Open Source projects. Feel free to reach out at [email](mailto:jahid80820@gmail.com) to contact with me.
 
 ## Portfolio
 
