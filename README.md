@@ -12,7 +12,7 @@ I'm a web developer from Bangladesh, who loves to code. I mainly code in JavaScr
 
 [![](https://img.shields.io/badge/-@hello--jahid-%23181717?style=flat-square&logo=github)](https://github.com/hello-jahid) [![](https://img.shields.io/website?color=dc3545&style=flat-square&up_message=codewithjahid.com&url=http://codewithjahid.com/)](http://codewithjahid.com/) [![Gmail Badge](https://img.shields.io/badge/-jahid80820@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jahid80820@gmail.com)](mailto:jahid80820@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-jahid80820-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/jahid80820/)](https://linkedin.com/in/jahid80820/) [![Twitter Badge](https://img.shields.io/badge/-@Jahid80820-%231DA1F2?style=flat-square&url=https://twitter.com/Jahid80820&logo=twitter&logoColor=ffffff)](https://twitter.com/Jahid80820)
 
-## My Tech Stack
+## What i know
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
