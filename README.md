@@ -4,10 +4,6 @@
 
 I'm a web developer from Bangladesh, who loves to code. I mainly code in JavaScript & PHP, but I'm always learning new things. I also just started contributing to Open Source projects. Feel free to reach out at [email](mailto:jahid80820@gmail.com) to contact with me.
 
-## Portfolio
-
-- [**Forza Trucking**](https://forzatrucking.com): The Official Forza Trucking website. Forza Trucking is a Virtual Trucking Company for ETS2 and ATS.
-
 ## Social Links
 
 [![](https://img.shields.io/badge/-@hello--jahid-%23181717?style=flat-square&logo=github)](https://github.com/hello-jahid) [![](https://img.shields.io/website?color=dc3545&style=flat-square&up_message=codewithjahid.com&url=http://codewithjahid.com/)](http://codewithjahid.com/) [![Gmail Badge](https://img.shields.io/badge/-jahid80820@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jahid80820@gmail.com)](mailto:jahid80820@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-jahid80820-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/jahid80820/)](https://linkedin.com/in/jahid80820/) [![Twitter Badge](https://img.shields.io/badge/-@Jahid80820-%231DA1F2?style=flat-square&url=https://twitter.com/Jahid80820&logo=twitter&logoColor=ffffff)](https://twitter.com/Jahid80820)
