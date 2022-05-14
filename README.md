@@ -1,12 +1,12 @@
 # 🧐 About Me
 
-![status](https://img.shields.io/badge/status-up-brightgreen) ![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey) ![](https://img.shields.io/badge/Relationship-Single-red) [![GitHub followers](https://img.shields.io/github/followers/hello-jahid?label=Follow&style=social)](https://github.com/hello-jahid/?tab=follow) [![Visitors](https://visitor-badge.glitch.me/badge?page_id=hello-jahid.hello-jahid)](https://github.com/hello-jahid/)
+![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey) ![](https://img.shields.io/badge/Relationship-Single-red) [![GitHub followers](https://img.shields.io/github/followers/hello-jahid?label=Follow&style=social)](https://github.com/hello-jahid/?tab=follow) [![Visitors](https://visitor-badge.glitch.me/badge?page_id=hello-jahid.hello-jahid)](https://github.com/hello-jahid/)
 
 I'm a web developer from Bangladesh, who loves to code. I mainly code in JavaScript & PHP, but I'm always learning new things. I also just started contributing to Open Source projects. Feel free to reach out at [email](mailto:jahid80820@gmail.com) to contact with me.
 
 ## Social Links
 
-[![](https://img.shields.io/website?color=dc3545&style=flat-square&up_message=codewithjahid.com&url=http://codewithjahid.com/)](http://codewithjahid.com/) [![Gmail Badge](https://img.shields.io/badge/-jahid80820@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jahid80820@gmail.com)](mailto:jahid80820@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-jahid80820-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/jahid80820/)](https://linkedin.com/in/jahid80820/) [![Twitter Badge](https://img.shields.io/badge/-@Jahid80820-%231DA1F2?style=flat-square&url=https://twitter.com/Jahid80820&logo=twitter&logoColor=ffffff)](https://twitter.com/Jahid80820)
+[![](https://img.shields.io/website?color=dc3545&style=flat-square&up_message=meetjahid.com&url=https://meetjahid.com)](https://meetjahid.com) [![Gmail Badge](https://img.shields.io/badge/-jahid80820@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jahid80820@gmail.com)](mailto:jahid80820@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-jahid80820-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/jahid80820/)](https://linkedin.com/in/jahid80820/) [![Twitter Badge](https://img.shields.io/badge/-@Jahid80820-%231DA1F2?style=flat-square&url=https://twitter.com/Jahid80820&logo=twitter&logoColor=ffffff)](https://twitter.com/Jahid80820)
 
 ## What I Know!
 
