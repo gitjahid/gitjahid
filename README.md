@@ -27,6 +27,6 @@ I'm a web developer from Bangladesh, who loves to code. I mainly code in JavaScr
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=git-jahid&theme=highcontrast&hide_border=true&background=22272E)](https://github.com/git-jahid)
 
-![jahid-dev/github-readme-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hello-jahid&langs_count=8)
+![jahid-dev/github-readme-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=git-jahid&langs_count=8)
 
-![Jahid's Github stats](https://github-readme-stats.vercel.app/api?username=hello-jahid&show_icons=true)
+![Jahid's Github stats](https://github-readme-stats.vercel.app/api?username=git-jahid&show_icons=true)
