@@ -25,6 +25,8 @@ I'm a web developer from Bangladesh, who loves to code. I mainly code in JavaScr
 ![TailwindCss](https://img.shields.io/badge/-TailwindCss-%231a202c?style=flat-square&logo=tailwind-css)
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=git-jahid&theme=highcontrast&hide_border=true&background=22272E)](https://github.com/git-jahid)
+
 ![jahid-dev/github-readme-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hello-jahid&langs_count=8)
 
 ![Jahid's Github stats](https://github-readme-stats.vercel.app/api?username=hello-jahid&show_icons=true)
