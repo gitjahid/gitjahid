@@ -6,7 +6,7 @@ I'm a web developer from Bangladesh, who loves to code. I mainly code in JavaScr
 
 ## Social Links
 
-[![](https://img.shields.io/website?color=dc3545&style=flat-square&up_message=hellojahid.com&url=https://hellojahid.com)](https://hellojahid.com) [![Gmail Badge](https://img.shields.io/badge/-jahid80820@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jahid80820@gmail.com)](mailto:jahid80820@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-ln-jahid-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/ln-jahid/)](https://linkedin.com/in/ln-jahid/) [![Twitter Badge](https://img.shields.io/badge/-@tw__jahidhasan-%231DA1F2?style=flat-square&url=https://twitter.com/tw_jahidhasan&logo=twitter&logoColor=ffffff)](https://twitter.com/tw_jahidhasan)
+[![](https://img.shields.io/website?color=dc3545&style=flat-square&up_message=hellojahid.com&url=https://hellojahid.com)](https://hellojahid.com) [![Gmail Badge](https://img.shields.io/badge/-jahid80820@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jahid80820@gmail.com)](mailto:jahid80820@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-ln_-_jahid-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/ln-jahid/)](https://linkedin.com/in/ln-jahid/) [![Twitter Badge](https://img.shields.io/badge/-@tw__jahidhasan-%231DA1F2?style=flat-square&url=https://twitter.com/tw_jahidhasan&logo=twitter&logoColor=ffffff)](https://twitter.com/tw_jahidhasan)
 
 ## What I Know!
 
