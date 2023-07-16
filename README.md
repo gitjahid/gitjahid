@@ -8,7 +8,7 @@
 </h3>
 
 <p align="center">
-  I'm specialize in <b>Full Stack JavaScript</b> development. While my primary coding languages are JavaScript/Node.js and PHP. I am continuously expanding my knowledge and exploring new technologies. Recently, I've embarked on contributing to Open Source projects as well. If you have any inquiries or need assistance, feel free to get in touch with me.
+  I'm specialize in <b>Full Stack Web</b> development. While my primary coding languages are JavaScript/Node.js and PHP. I am continuously expanding my knowledge and exploring new technologies. Recently, I've embarked on contributing to Open Source projects as well. If you have any inquiries or need assistance, feel free to get in touch with me.
 </p>
 
 <p align="center">
