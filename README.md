@@ -61,6 +61,7 @@
 ![Nodejs](https://img.shields.io/badge/Nodejs-167D7F?style=for-the-badge&labelColor=black&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-167D7F?style=for-the-badge&labelColor=black&logo=express&logoColor=white)
 ![Strapi](https://img.shields.io/badge/strapi-167D7F?&labelColor=black&style=for-the-badge&logo=strapi&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-167D7F?&labelColor=black&style=for-the-badge&logo=laravel&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-167D7F?&labelColor=black&style=for-the-badge&logo=graphql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-167D7F?style=for-the-badge&labelColor=black&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-167D7F?style=for-the-badge&labelColor=black&logo=postgresql&logoColor=white)
