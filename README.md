@@ -25,7 +25,7 @@
         <img src="https://img.shields.io/badge/Twitter-1D9BF0?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Profile" />
     </a>
     <a href="https://github.com/gitjahid" target="blank">
-        <img src="https://img.shields.io/github/followers/gitjahid?style=for-the-badge&logo=github&logoColor=white&color=white&labelColor=141414" alt="Portfolio" />
+        <img src="https://img.shields.io/github/followers/gitjahid?style=for-the-badge&logo=github&logoColor=white&color=white&labelColor=black" alt="Portfolio" />
     </a>
 </p>
 
