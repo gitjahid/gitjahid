@@ -1,12 +1,12 @@
 # 🧐 About Me
 
-![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey) ![](https://img.shields.io/badge/Relationship-Single-red) [![GitHub followers](https://img.shields.io/github/followers/hello-jahid?label=Follow&style=social)](https://github.com/hello-jahid/?tab=follow) [![Visitors](https://visitor-badge.glitch.me/badge?page_id=hello-jahid.hello-jahid)](https://github.com/hello-jahid/)
+![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey) [![GitHub followers](https://img.shields.io/github/followers/gitjahid?label=Follow&style=social)](https://github.com/gitjahid/?tab=follow) [![Visitors](https://visitor-badge.glitch.me/badge?page_id=gitjahid.gitjahid)](https://github.com/gitjahid/)
 
 I'm a web developer from Bangladesh, who loves to code. I mainly code in JavaScript & PHP, but I'm always learning new things. I also just started contributing to Open Source projects. Feel free to reach out at [email](mailto:jahid80820@gmail.com) to contact with me.
 
 ## Social Links
 
-[![](https://img.shields.io/website?color=dc3545&style=flat-square&up_message=meetjahid.com&url=https://meetjahid.com)](https://meetjahid.com) [![Gmail Badge](https://img.shields.io/badge/-jahid80820@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jahid80820@gmail.com)](mailto:jahid80820@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-devjahid-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/devjahid/)](https://linkedin.com/in/devjahid/) [![Twitter Badge](https://img.shields.io/badge/-@tw__jahidhasan-%231DA1F2?style=flat-square&url=https://twitter.com/tw_jahidhasan&logo=twitter&logoColor=ffffff)](https://twitter.com/tw_jahidhasan)
+[![](https://img.shields.io/website?color=dc3545&style=flat-square&up_message=hellojahid.com&url=https://hellojahid.com)](https://hellojahid.com) [![Gmail Badge](https://img.shields.io/badge/-jahid80820@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jahid80820@gmail.com)](mailto:jahid80820@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-gitjahid-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/devjahid/)](https://linkedin.com/in/devjahid/) [![Twitter Badge](https://img.shields.io/badge/-@tw__jahidhasan-%231DA1F2?style=flat-square&url=https://twitter.com/tw_jahidhasan&logo=twitter&logoColor=ffffff)](https://twitter.com/tw_jahidhasan)
 
 ## What I Know!
 
@@ -25,6 +25,6 @@ I'm a web developer from Bangladesh, who loves to code. I mainly code in JavaScr
 ![TailwindCss](https://img.shields.io/badge/-TailwindCss-%231a202c?style=flat-square&logo=tailwind-css)
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=git-jahid&theme=highcontrast&hide_border=true&background=22272E)](https://github.com/git-jahid)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gitjahid&theme=highcontrast&hide_border=true&background=22272E)](https://github.com/gitjahid)
 
-![jahid-dev/github-readme-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=git-jahid&langs_count=8&theme=dracula)
+![gitjahid/github-readme-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gitjahid&langs_count=8&theme=dracula)
