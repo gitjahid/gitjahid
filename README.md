@@ -18,7 +18,7 @@
     <a href="mailto:jahid80820@gmail.com" target="blank">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Address" />
     </a>
-    <a href="https://linkedin.com/in/ln-jahid" target="_blank">
+    <a href="https://linkedin.com/in/md-jahid-hasan-077b81156" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Profile"/>
     </a>
     <a href="https://twitter.com/tw_jahidhasan" target="_blank">
